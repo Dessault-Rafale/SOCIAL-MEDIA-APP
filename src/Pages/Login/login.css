@@ -1,0 +1,85 @@
+#A{
+    /* background-color: darkgrey; */
+    height: 250px;
+
+}
+.email{
+    width: 350px;
+}
+
+#B{
+    height:250px;
+    /* background-color: rgb(181, 21, 106);
+     */
+} 
+
+
+h1{
+    color: blue;
+    font-size: 80px;
+    font-weight: 900;
+    margin-left: 100px;
+    margin-top: -50px;
+
+
+    
+    
+
+}
+#gen{
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: rgb(43, 175, 61);
+    border-color: rgb(43, 175, 61);
+   
+}
+ 
+#D{
+    height:250px;
+    /* background-color: rgb(21, 181, 88); */
+    
+} 
+#dell{
+    margin-left: -540px;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+#E{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+}
+#fellow{
+    margin-top: -150px;
+}
+
+form{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: -100px;
+
+}
+input{
+    text-align: center;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    border-color: rgb(188, 190, 191);
+    margin-top: 30px;
+
+}
+button{
+    background-color: rgb(7, 114, 237);
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bolder;
+    border-color: rgb(7, 114, 237);
+}

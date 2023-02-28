@@ -1,0 +1,106 @@
+#A{
+    /* background-color: darkgrey; */
+    height: 250px;
+
+}
+
+#son{
+    margin-left: 30px;
+}
+#B{
+    height:250px;
+    /* background-color: rgb(181, 21, 106);
+     */
+} 
+
+#C{
+    margin-top: -150px;
+}
+
+#fell{
+    margin-top: -150px;
+}
+
+h1{
+    color: blue;
+    font-size: 80px;
+    font-weight: 900;
+    margin-left: 100px;
+    margin-top: 100px;
+
+
+    
+    
+
+}
+#gen{
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: rgb(43, 175, 61);
+    border-color: rgb(43, 175, 61);
+   
+}
+ 
+#D{
+    height:250px;
+    /* background-color: rgb(21, 181, 88); */
+    
+} 
+#dell{
+    margin-left: -540px;
+    margin-top: 200px;
+    font-size: 30px;
+}
+#do{
+    height: 20px;
+    width: 50px;
+}
+#box{
+    margin-top: -100px;
+}
+
+#E{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+}
+
+form{
+    height: 730px;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: -100px;
+
+}
+input{
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    border-color: rgb(188, 190, 191);
+    margin-top: 30px;
+
+}
+#hello{
+    text-align: center;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    border-color: rgb(188, 190, 191);
+    margin-top: 30px;
+
+}
+button{
+    background-color: rgb(7, 114, 237);
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bolder;
+    border-color: rgb(7, 114, 237);
+}
